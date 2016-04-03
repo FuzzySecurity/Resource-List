@@ -140,6 +140,9 @@ CTF
 
 * tesseract-ocr:
   * https://github.com/tesseract-ocr/tesseract
+  
+* xortool, analyze multi-byte xor cipher:
+  * https://github.com/hellman/xortool
 
 * flare-floss, FireEye Obfuscated String Solver:
   * https://github.com/fireeye/flare-floss
