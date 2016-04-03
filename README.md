@@ -176,3 +176,35 @@ CTF
 
 * CTF scoreboard:
   * https://github.com/ShySec/scrimmage-scoreboard
+  
+Malware
+-------
+* GRR Rapid Response:
+  * https://github.com/google/grr
+
+* Viper, Binary analysis framework:
+  * https://github.com/viper-framework/viper
+
+* yara:
+  * https://github.com/plusvic/yara/
+
+* Course materials for Malware Analysis by RPISEC (2015):
+  * https://github.com/RPISEC/Malware
+
+* APTnotes, various public documents, whitepapers and articles about APT campaigns:
+  * https://github.com/kbandla/APTnotes
+
+* HellKitty-In-VC Ring3 Rootkit:
+  * https://github.com/aaaddress1/HellKitty-In-VC
+
+* PowerWorm, PowerShell-based malware:
+  * https://github.com/mattifestation/PowerWorm
+
+* Anti Sandbox and Anti Virtual Machine Tool:
+  * https://github.com/AlicanAkyol/sems
+
+* JSDetox, JavaScript deobfuscation:
+  * https://github.com/svent/jsdetox
+
+* CapTipper, analyze, explore and revive HTTP malicious traffic:
+  * https://github.com/omriher/CapTipper
