@@ -55,3 +55,32 @@ pwnd
 
 * TDL (Turla Driver Loader). Driver loader for bypassing Windows x64 Driver Signature Enforcement:
   * https://github.com/hfiref0x/TDL
+  
+PowerShell
+----------
+* PowerSploit - A PowerShell Post-Exploitation Framework:
+  * https://github.com/PowerShellMafia/PowerSploit
+
+* PowerShellArsenal, PowerShell Module Dedicated to Reverse Engineering:
+  * https://github.com/mattifestation/PowerShellArsenal
+
+* PowerShell - Live disk forensics platform:
+  * https://github.com/Invoke-IR/PowerForensics
+
+* PowerMemory:
+  * https://github.com/giMini/PowerMemory
+
+* Inveigh, LLMNR/NBNS spoofer/man-in-the-middle tool:
+  * https://github.com/Kevin-Robertson/Inveigh
+
+* Tater, PowerShell implementation of Hot Potato PrivEsc:
+  * https://github.com/Kevin-Robertson/Tater
+
+* Powershell to CodeExecution and ProcessInjection:
+  * https://github.com/3gstudent/Code-Execution-and-Process-Injection
+
+* p0wnedShell, PowerShell Runspace Post Exploitation Toolkit:
+  * https://github.com/Cn33liz/p0wnedShell
+
+* OutlookPersistence:
+  * https://github.com/enigma0x3/OutlookPersistence
