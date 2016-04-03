@@ -5,5 +5,5 @@ A collection of useful GitHub projects loosely categorised. I may end up adding 
 
 pwnd
 ----
-* ODAT Oracle Database Attack Tool:
-..* [https://github.com/quentinhardy/odat]
+1 ODAT Oracle Database Attack Tool:
+··* https://github.com/quentinhardy/odat
