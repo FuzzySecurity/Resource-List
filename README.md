@@ -84,3 +84,95 @@ PowerShell
 
 * OutlookPersistence:
   * https://github.com/enigma0x3/OutlookPersistence
+  
+CTF
+---
+* CTF-Workshop:
+  * https://github.com/kablaa/CTF-Workshop
+
+* ctf-tools:
+  * https://github.com/zardus/ctf-tools
+
+* pwntools, CTF framework used by Gallopsled:
+  * https://github.com/Gallopsled/pwntools
+
+* Awesome CTF, tool list:
+  * https://github.com/apsdehal/awesome-ctf
+
+* binjitsu:
+  * https://github.com/binjitsu/binjitsu
+
+* 32/64 bit Intel shellcode for CTF style exploitation:
+  * https://github.com/isislab/Shellcode
+
+* preeny, payloads for binary patching:
+  * https://github.com/zardus/preeny
+
+* Eh'Trace (pronounced ATrace) is a binary tracing tool for Windows:
+  * https://github.com/K2/EhTrace
+
+* flare-ida, IDA Pro scripts and plugins by the FireEye FLARE team:
+  * https://github.com/fireeye/flare-ida
+
+* Qira, timeless debugger:
+  * https://github.com/BinaryAnalysisPlatform/qira
+
+* Binary Ninja Python:
+  * https://github.com/Vector35/binaryninja-python
+
+* radare2:
+  * https://github.com/radare/radare2
+
+* Triton dynamic binary analysis framework:
+  * https://github.com/JonathanSalwan/Triton
+
+* angr binary analysis framework:
+  * https://github.com/angr/angr
+
+* Capstone disassembly/disassembler framework:
+  * https://github.com/aquynh/capstone
+
+* Snowman Decompiler:
+  * https://github.com/yegord/snowman
+
+* Pin unpacking and anti-evasion:
+  * https://github.com/Seba0691/pin_unpacking_antievasion
+
+* tesseract-ocr:
+  * https://github.com/tesseract-ocr/tesseract
+
+* flare-floss, FireEye Obfuscated String Solver:
+  * https://github.com/fireeye/flare-floss
+
+* FernFlower Java decompiler:
+  * https://github.com/fesh0r/fernflower
+
+* dbSypy, .NET assembly editor, decompiler, and debugger:
+  * https://github.com/0xd4d/dnSpy
+
+* JPEXS Free Flash Decompiler:
+  * https://github.com/jindrapetrik/jpexs-decompiler
+
+* Robust ABC (ActionScript Bytecode) [Dis-]Assembler (RABCDAsm):
+  * https://github.com/CyberShadow/RABCDAsm
+
+* CTF write-ups by PPP:
+  * https://github.com/pwning/public-writeup
+
+* CTFs -> CTF write-up's:
+  * https://github.com/ctfs
+
+* Modern Binary Exploitation RPISEC:
+  * https://github.com/RPISEC/MBE
+
+* HeXA CTF Platform:
+  * https://github.com/L34p/HeXA-CTF-2015
+
+* CTFd:
+  * https://github.com/isislab/CTFd
+
+* Christmas-CTF:
+  * https://github.com/brian020305/Christmas-CTF
+
+* CTF scoreboard:
+  * https://github.com/ShySec/scrimmage-scoreboard
