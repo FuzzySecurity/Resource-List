@@ -72,6 +72,9 @@ PowerShell
 
 * Inveigh, LLMNR/NBNS spoofer/man-in-the-middle tool:
   * https://github.com/Kevin-Robertson/Inveigh
+  
+* PoshPrivilege, add/remove privileges to an account/group on a local machine as well as enabling or disabling existing privileges which are applied to a current user's process token:
+  * https://github.com/proxb/PoshPrivilege
 
 * Tater, PowerShell implementation of Hot Potato PrivEsc:
   * https://github.com/Kevin-Robertson/Tater
@@ -187,6 +190,9 @@ Malware
 
 * Viper, Binary analysis framework:
   * https://github.com/viper-framework/viper
+  
+* pafish, detect sandboxes and analysis environments in the same way as malware families do:
+  * https://github.com/a0rtega/pafish
 
 * yara:
   * https://github.com/plusvic/yara/
