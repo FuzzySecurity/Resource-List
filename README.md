@@ -56,6 +56,9 @@ pwnd
 * TDL (Turla Driver Loader). Driver loader for bypassing Windows x64 Driver Signature Enforcement:
   * https://github.com/hfiref0x/TDL
   
+* Ebowla, framework for Making Environmental Keyed Payloads:
+  * https://github.com/Genetic-Malware/Ebowla
+  
 PowerShell
 ----------
 * PowerSploit - A PowerShell Post-Exploitation Framework:
@@ -63,8 +66,14 @@ PowerShell
 
 * PowerShellArsenal, PowerShell Module Dedicated to Reverse Engineering:
   * https://github.com/mattifestation/PowerShellArsenal
+  
+* Empire, post-exploitation framework:
+  * https://github.com/powershellempire/empire
+  
+* PowerShell Empire Web Interface using the REST API interface:
+  * https://github.com/interference-security/empire-web
 
-* PowerShell - Live disk forensics platform:
+* PowerShell live disk forensics platform:
   * https://github.com/Invoke-IR/PowerForensics
 
 * PowerMemory:
@@ -81,9 +90,15 @@ PowerShell
 
 * Powershell to CodeExecution and ProcessInjection:
   * https://github.com/3gstudent/Code-Execution-and-Process-Injection
+  
+* PoshRat, PowerShell Reverse HTTP(s) Shell:
+  * https://github.com/subTee/PoshRat
 
 * p0wnedShell, PowerShell Runspace Post Exploitation Toolkit:
   * https://github.com/Cn33liz/p0wnedShell
+  
+* PSAttack, a portable console aimed at making pentesting with PowerShell a little easier:
+  * https://github.com/jaredhaight/PSAttack
 
 * OutlookPersistence:
   * https://github.com/enigma0x3/OutlookPersistence
