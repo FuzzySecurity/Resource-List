@@ -58,6 +58,9 @@ pwnd
   
 * Ebowla, framework for Making Environmental Keyed Payloads:
   * https://github.com/Genetic-Malware/Ebowla
+
+* CVE-2016-1287 POC: IKEv1/v2 buffer overflow
+  * https://github.com/exodusintel/disclosures/blob/master/CVE_2016_1287_PoC
   
 PowerShell
 ----------
@@ -131,6 +134,9 @@ CTF
 
 * flare-ida, IDA Pro scripts and plugins by the FireEye FLARE team:
   * https://github.com/fireeye/flare-ida
+
+* HexRaysCodeXplorer, IDA plugin for better code navigation
+  * https://github.com/REhints/HexRaysCodeXplorer
 
 * Qira, timeless debugger:
   * https://github.com/BinaryAnalysisPlatform/qira
