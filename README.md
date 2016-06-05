@@ -108,6 +108,7 @@ PowerShell
 
 * Babadook: Connection-less Powershell Persistent and Resilient Backdoor
   * https://github.com/jseidl/Babadook
+  * https://wroot.org/posts/babadook-connection-less-powershell-persistent-and-resilient-backdoor/
   
 CTF
 ---
