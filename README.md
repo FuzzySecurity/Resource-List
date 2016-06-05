@@ -105,6 +105,9 @@ PowerShell
 
 * OutlookPersistence:
   * https://github.com/enigma0x3/OutlookPersistence
+
+* Babadook: Connection-less Powershell Persistent and Resilient Backdoor
+  * https://github.com/jseidl/Babadook
   
 CTF
 ---
