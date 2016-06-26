@@ -109,6 +109,9 @@ PowerShell
 * Babadook: Connection-less Powershell Persistent and Resilient Backdoor
   * https://github.com/jseidl/Babadook
   * https://wroot.org/posts/babadook-connection-less-powershell-persistent-and-resilient-backdoor/
+
+* Windows 10 hardening:
+  * https://gist.github.com/alirobe/7f3b34ad89a159e6daa1
   
 CTF
 ---
@@ -227,6 +230,9 @@ Malware
 
 * APTnotes, various public documents, whitepapers and articles about APT campaigns:
   * https://github.com/kbandla/APTnotes
+
+* QuasarRAT (c#):
+  * https://github.com/quasar/QuasarRAT
 
 * HellKitty-In-VC Ring3 Rootkit:
   * https://github.com/aaaddress1/HellKitty-In-VC
