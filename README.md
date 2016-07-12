@@ -81,6 +81,12 @@ PowerShell
 
 * PowerMemory:
   * https://github.com/giMini/PowerMemory
+  
+* KeeThief, methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory.
+  * https://github.com/adaptivethreat/KeeThief
+  
+* mimikittenz, a post-exploitation powershell tool for extracting juicy info from memory.
+  * https://github.com/putterpanda/mimikittenz
 
 * Inveigh, LLMNR/NBNS spoofer/man-in-the-middle tool:
   * https://github.com/Kevin-Robertson/Inveigh
@@ -189,6 +195,9 @@ CTF
 
 * Robust ABC (ActionScript Bytecode) [Dis-]Assembler (RABCDAsm):
   * https://github.com/CyberShadow/RABCDAsm
+  
+* WinAFL, a fork of AFL for fuzzing Windows binaries.
+  * https://github.com/ivanfratric/winafl
 
 * CTF write-ups by PPP:
   * https://github.com/pwning/public-writeup
