@@ -62,6 +62,12 @@ pwnd
 * CVE-2016-1287 POC: IKEv1/v2 buffer overflow
   * https://github.com/exodusintel/disclosures/blob/master/CVE_2016_1287_PoC
   
+* SubTee, AllTheThings -> Includes 5 Known Application Whitelisting Bypass Techniques in One File:
+  * https://github.com/subTee/AllTheThings
+
+* IAT_POC, IAT based payload, that bypasses DEP/ASLR protections in EMET:
+  * https://github.com/ShellcodeSmuggler/IAT_POC
+  
 PowerShell
 ----------
 * PowerSploit - A PowerShell Post-Exploitation Framework:
@@ -82,10 +88,10 @@ PowerShell
 * PowerMemory:
   * https://github.com/giMini/PowerMemory
   
-* KeeThief, methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory.
+* KeeThief, methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory:
   * https://github.com/adaptivethreat/KeeThief
   
-* mimikittenz, a post-exploitation powershell tool for extracting juicy info from memory.
+* mimikittenz, a post-exploitation powershell tool for extracting juicy info from memory:
   * https://github.com/putterpanda/mimikittenz
 
 * Inveigh, LLMNR/NBNS spoofer/man-in-the-middle tool:
@@ -115,6 +121,9 @@ PowerShell
 * Babadook: Connection-less Powershell Persistent and Resilient Backdoor
   * https://github.com/jseidl/Babadook
   * https://wroot.org/posts/babadook-connection-less-powershell-persistent-and-resilient-backdoor/
+  
+* ps1-toolkit, obfuscated penetration testing PowerShell scripts:
+  * https://github.com/vysec/ps1-toolkit
 
 * Windows 10 hardening:
   * https://gist.github.com/alirobe/7f3b34ad89a159e6daa1
@@ -148,7 +157,7 @@ CTF
 * flare-ida, IDA Pro scripts and plugins by the FireEye FLARE team:
   * https://github.com/fireeye/flare-ida
 
-* HexRaysCodeXplorer, IDA plugin for better code navigation
+* HexRaysCodeXplorer, IDA plugin for better code navigation:
   * https://github.com/REhints/HexRaysCodeXplorer
 
 * Qira, timeless debugger:
@@ -196,7 +205,7 @@ CTF
 * Robust ABC (ActionScript Bytecode) [Dis-]Assembler (RABCDAsm):
   * https://github.com/CyberShadow/RABCDAsm
   
-* WinAFL, a fork of AFL for fuzzing Windows binaries.
+* WinAFL, a fork of AFL for fuzzing Windows binaries:
   * https://github.com/ivanfratric/winafl
 
 * CTF write-ups by PPP:
@@ -242,6 +251,9 @@ Malware
 
 * QuasarRAT (c#):
   * https://github.com/quasar/QuasarRAT
+  
+* browsersploit, advanced browser exploit pack for doing internal and external pentesting:
+  * https://github.com/julienbedard/browsersploit
 
 * HellKitty-In-VC Ring3 Rootkit:
   * https://github.com/aaaddress1/HellKitty-In-VC
