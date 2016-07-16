@@ -97,6 +97,9 @@ PowerShell
 * Inveigh, LLMNR/NBNS spoofer/man-in-the-middle tool:
   * https://github.com/Kevin-Robertson/Inveigh
   
+* PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server:
+  * https://github.com/NetSPI/PowerUpSQL
+  
 * PoshPrivilege, add/remove privileges to an account/group on a local machine as well as enabling or disabling existing privileges which are applied to a current user's process token:
   * https://github.com/proxb/PoshPrivilege
 
