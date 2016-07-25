@@ -210,6 +210,9 @@ CTF
   
 * WinAFL, a fork of AFL for fuzzing Windows binaries:
   * https://github.com/ivanfratric/winafl
+  
+* Gray Hat C#:
+  * https://github.com/brandonprry/gray_hat_csharp_code
 
 * CTF write-ups by PPP:
   * https://github.com/pwning/public-writeup
