@@ -70,6 +70,9 @@ pwnd
   
 PowerShell
 ----------
+* BloodHound, Six Degrees of Domain Admin:
+  * https://github.com/adaptivethreat/Bloodhound
+
 * PowerSploit - A PowerShell Post-Exploitation Framework:
   * https://github.com/PowerShellMafia/PowerSploit
 
