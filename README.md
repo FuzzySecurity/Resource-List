@@ -142,6 +142,9 @@ CTF
 * ctf-tools:
   * https://github.com/zardus/ctf-tools
 
+* Mechanical Phish framework for the DARPA Cyber Grand Challenge (@shellphish):
+  * https://github.com/mechaphish
+
 * pwntools, CTF framework used by Gallopsled:
   * https://github.com/Gallopsled/pwntools
 
@@ -237,6 +240,10 @@ CTF
 
 * CTF scoreboard:
   * https://github.com/ShySec/scrimmage-scoreboard
+
+* DefCon CTF VM:
+  * http://fuzyll.com/2016/the-defcon-ctf-vm/
+  * https://github.com/fuzyll/defcon-vm
   
 Malware
 -------
