@@ -67,6 +67,9 @@ pwnd
 
 * IAT_POC, IAT based payload, that bypasses DEP/ASLR protections in EMET:
   * https://github.com/ShellcodeSmuggler/IAT_POC
+
+* XRulez, Windows executable that can add malicious rules to Outlook:
+  * https://github.com/mwrlabs/XRulez
   
 PowerShell
 ----------
